@@ -1,2 +1,2 @@
-# Gaza-rencanaportofolio
+# gaza-rencanaportofolio
 Belajar Git+Github Bersama Gaza
